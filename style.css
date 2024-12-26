@@ -1,0 +1,14 @@
+#toggle-block {
+     width: 100px;
+     height: 100px;
+     background-color: lightblue;
+     display: block; /* Блок видим по умолчанию */
+ }
+
+#toggle-button {
+    margin-left: 10px;
+}
+
+
+
+
